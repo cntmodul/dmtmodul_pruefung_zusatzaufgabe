@@ -1,1 +1,2 @@
 Ich bin auch eine Textdatei
+In dieser Textdatei gibt es Änderungen, welche zu mergen sind
