@@ -1,3 +1,0 @@
-Ich bin auch eine Textdatei
-und auch ein paar kilobyte
-In dieser Textdatei gibt es Änderungen, welche zu mergen sind
